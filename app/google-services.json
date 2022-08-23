@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "160119031927",
+    "project_id": "ifood-bd5bd",
+    "storage_bucket": "ifood-bd5bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160119031927:android:1661d21bf2def12a8d5e72",
+        "android_client_info": {
+          "package_name": "com.cursoandroid.ifood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160119031927-9rrgffllk094r17m6me4k25gbpqg6rqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cursoandroid.ifood",
+            "certificate_hash": "11b92d39eda6c1ce7229aaa5170b2f78314ba21a"
+          }
+        },
+        {
+          "client_id": "160119031927-824e5osg878esduogamfqdhv8g3mbe0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeUo_bqFO3FBKqEIdRtZ7GEdY0wqW3azM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160119031927-824e5osg878esduogamfqdhv8g3mbe0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
